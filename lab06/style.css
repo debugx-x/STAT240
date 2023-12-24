@@ -1,0 +1,59 @@
+.remark-slide-number {
+  display: none;
+}
+
+.remark-slide-content {
+  font-size: 24px;
+  padding: 1em 4em 1em 4em;
+}
+
+.inverse, .hljs-github {
+  background-image: url('block.png');
+  background-size: 11%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top left;
+}
+
+.middle {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+} 
+
+.middle-big {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 64px;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+} 
+
+.smaller h1 {
+font-size: 32px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: blue;
+}
